@@ -2,7 +2,7 @@
 js实现的alert 支持基本样式定义  按钮点击的回调  安卓ios通用  使用方式方便   拒绝state引发的重绘render
 
 ## Demo
-<a href="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo_images/demo.gif"><img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo_images/demo.gif" width="350"></a>
+<a href="https://github.com/plimerence/react-native-alert/blob/master/pic/Snip20180912_10.png"><img src="https://github.com/plimerence/react-native-alert/blob/master/pic/Snip20180912_10.png" width="315"></a>
 
 ## Basic usage
 
